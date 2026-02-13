@@ -5,7 +5,7 @@ import numpy as np
 # USER - CONFIG
 # =========================
 
-PARQUET_FILEPATH = "file_path to your parquet data file"
+PARQUET_FILEPATH = "file_path to your parquet data"
 FAST_EMA = 20
 SLOW_EMA = 50
 
